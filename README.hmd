@@ -1,0 +1,9 @@
+Telegram Video Downloader Bot
+
+Supports:
+- TikTok
+- Instagram
+- Facebook
+- YouTube
+
+Powered by Python + yt-dlp + python-telegram-bot
